@@ -52,41 +52,23 @@ El proyecto Profits, ahora convertido en una entidad de servicio bursátil onlin
   <h4 id="list-item-3">Objetivo</h4>
   <p class="text-justify">El objetivo de Profits es orientar a los emprendedores e inversores que empatizan con el mercado bursátil para que conozcan la estructura, funcionamiento y logística de este mercado y, a la vez, logren la rentabilidad empleando el sistema basado en la acción del precio.   </p>
   <h4 id="list-item-4">Valores</h4>
-<p class="text-justify">
-1.  Respeto a la dignidad humana
+<p class="font-weight-bold">
+1.  Respeto a la dignidad humana: <p class="text-justify"> Para Profits tú ocupas el primer lugar, se te reconocen tu valor, derechos y deberes.
+</p></p>
+<p class="font-weight-bold">
+2.  Transparencia e integridad: <p class="text-justify"> Profits es una entidad dedicada a orientar al emprendedor e inversor en materia bursátil, expresa en obras y palabras lo que cree. </p>
 </p>
-<p class="text-justify">
-Para Profits tú ocupas el primer lugar, se te reconocen tu valor, derechos y deberes.  
+<p class="font-weight-bold">
+3.  Ética y profesionalidad: <p class="text-justify">Se fundamenta en la ética y brinda los servicios de modo profesional.</p>
 </p>
-<p class="text-justify">
-2.  Transparencia e integridad
+<p class="font-weight-bold">
+4.  Calidad de servicio: <p class="text-justify">El servicio que se presta es profesional, completo y actualizado.
+</p></p>
+<p class="font-weight-bold">
+5.  Solidaridad: <p class="text-justify">Nos solidarizamos con las personas que buscan una respuesta a sus inquietudes emprendedoras y les ofrecemos una solución adaptada a sus necesidades.</p>
 </p>
-<p class="text-justify">
-Profits es una entidad dedicada a orientar al emprendedor e inversor en materia bursátil, expresa en obras y palabras lo que cree. 
-</p>
-<p class="text-justify">
-3.  Ética y profesionalidad 
-</p>
-<p class="text-justify">
-Se fundamenta en la ética y brinda los servicios de modo profesional.   
-</p>
-<p class="text-justify">
-4.  Calidad de servicio
-</p>
-<p class="text-justify">
-El servicio que se presta es profesional, completo y actualizado. 
-</p>
-<p class="text-justify">
-5.  Solidaridad 
-</p>
-<p class="text-justify">
-Nos solidarizamos con las personas que buscan una respuesta a sus inquietudes emprendedoras y les ofrecemos una solución adaptada a sus necesidades 
-</p>
-<p class="text-justify">
-6.  Responsabilidad social y ambiental 
-</p>
-<p class="text-justify">
-Promovemos el respeto y cuido de la ecología humana, como también el respeto al medio ambiente.  
+<p class="font-weight-bold">
+6.  Responsabilidad social y ambiental: <p class="text-justify"> Promovemos el respeto y cuido de la ecología humana, como también el respeto al medio ambiente.</p>
 </p>
 </div>
       </div>
