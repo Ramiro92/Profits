@@ -75,7 +75,7 @@ include "db.php";
                 </form> 
             </div>  
        </div> <!-- fin de col-md-6 *1-->
-       <div class="col-md-6">
+<!--        <div class="col-md-6">
 		<h2>Chat Interactivo</h2>
 		  <link href="https://fonts.googleapis.com/css?family=Mukta+Vaani" rel="stylesheet">
 			<?php
@@ -111,7 +111,7 @@ include "db.php";
 			  </div>
 			</form>
 		</div>
- 	 </div><!-- fin de col-md-6 *2-->
+ 	 </div><!-- fin de col-md-6 *2--> -->
  
 </div> <!-- fin de row -->
 </div> <!-- fin div container -->
