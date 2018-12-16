@@ -1,5 +1,5 @@
 <nav id="color-menu" class="navbar navbar-expand-lg navbar-light ">
-  <a id="titulo" id="menu"class="navbar-brand" href="index.php">PROFITSFX</a>
+  <a id="titulo" id="menu"class="navbar-brand" href="index.php"><img src="IMG/LOGO.png" width="160" height="100" class="d-inline-block align-top" alt=""></a>
   <button id="menud" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon icon-success"></span>
   </button>

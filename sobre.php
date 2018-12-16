@@ -9,7 +9,7 @@
 </head>
 <body>
 <header>
-  <img id="logo" src="IMG/LOGO.png" class="img-fluid" alt="Responsive image"> 
+  <!-- <img id="logo" src="IMG/LOGO.png" class="img-fluid" alt="Responsive image">  -->
     <?php 
       include("menu.php");
     ?>
