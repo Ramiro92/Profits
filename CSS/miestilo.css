@@ -1,0 +1,26 @@
+body
+#logo{
+	height: 200px;
+}
+
+#menu{
+	color:white;
+}
+
+#menud{
+background-color:#fff ;
+}
+#color-menu{
+	background-color: rgb(3,12,189);
+}
+
+#titulo{
+	font-size: 3em;
+	color:white;
+}
+#imagen{
+	border-radius: 50%;
+}
+#pie{
+	background-color: #000;
+}
