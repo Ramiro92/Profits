@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="CSS/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="CSS/miestilo.css">
-	
+	<link rel="stylesheet" type="text/css" href="fontawesome-free-5.6.1-web/css/all.css">
 
 	<title>Principal</title>
 </head>

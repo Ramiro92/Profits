@@ -15,8 +15,9 @@ background-color:#fff ;
 	background-color: rgb(3,12,189);
 }
 
-.placeicon{
-	font-family: fontawesome;
+.fas{
+	position: relative;
+	left: -40px;
 }
 
 #titulo{
