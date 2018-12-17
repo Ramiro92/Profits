@@ -8,6 +8,7 @@ include "db.php";
 	<link rel="stylesheet" type="text/css" href="CSS/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="CSS/miestilo.css">
 	<link href="https://fonts.googleapis.com/css?family=Mukta+Vaani" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="fontawesome-free-5.6.1-web/css/all.css">
 
 	<script type="text/javascript">
 		function ajax(){

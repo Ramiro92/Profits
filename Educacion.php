@@ -6,6 +6,7 @@
 	<title>Educación</title>
   	<link rel="stylesheet" type="text/css" href="CSS/bootstrap.css">
   	<link rel="stylesheet" type="text/css" href="CSS/miestilo.css">
+    <link rel="stylesheet" type="text/css" href="fontawesome-free-5.6.1-web/css/all.css">
     <?php 
       include("JS/inhabilitar.js");
      ?>
