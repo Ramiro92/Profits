@@ -28,6 +28,9 @@
       <li class="nav-item">
         <a id="menu" class="nav-link " href="#">INFORMACION RELACIONADA</a>
       </li>
+      <li class="nav-item">
+        <a id="menu" class="nav-link " href="login.php">INGRESAR</a>
+      </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
       <div>
