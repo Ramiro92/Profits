@@ -103,9 +103,11 @@ include "db.php";
 			<form method="POST" action="contacto.php">
 			  <div>
 			  <input type="text" class="form-control" name="nombre" placeholder="Ingresa tu nombre" required>
+        <br>
 			  </div>
 			  <div>     
 			  <textarea name="mensaje" class="form-control" placeholder="Ingresa tu mensaje" required=""></textarea>
+        <br>
 			  </div>
 			  <div>
 			  <input type="submit" name="enviar" class="form-control btn btn-primary" value="Enviar">
