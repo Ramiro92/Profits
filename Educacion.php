@@ -60,7 +60,7 @@
 			</div>			
 			<div class="col-md-12">
 				<br>
-				<img src="IMG/imagen 3.jpg" class="img-fluid" alt="Responsive image">
+				<img src="IMG/imagen 3.png" class="img-fluid" alt="Responsive image">
 			</div>
 			</div>
 			</div>
