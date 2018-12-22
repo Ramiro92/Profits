@@ -59,27 +59,25 @@ Con este historial de pérdidas decidió aprender de los profesionales y contact
   <p class="text-justify">El objetivo de Profits es orientar a los emprendedores e inversores que empatizan con el mercado bursátil para que conozcan la estructura, funcionamiento y logística de este mercado y, a la vez, logren la rentabilidad empleando el sistema basado en la acción del precio.   </p>
   <h4 id="list-item-4">Valores</h4>
   <br>
-<p class="font-weight-bold">
-1.  Confianza: <p class="text-justify"> Generamos un ambiente de confianza entre las personas que prestan nuestros  servicios y el equipo de Profits. La base de nuestros servicios es la confianza porque estamos convencidos que toda persona merece lo mejor.  
-</p></p>
-<p class="font-weight-bold">
-2.  Respeto a la dignidad humana: <p class="text-justify"> Para Profits tú ocupas el primer lugar, sabemos lo que vales y por mismo te tratamos con respeto y reconocemos tus derechos.   </p>
+
+<p class="text-justify"><strong> 1. Confianza: </strong>Generamos un ambiente de confianza entre las personas que prestan nuestros  servicios y el equipo de Profits. La base de nuestros servicios es la confianza porque estamos convencidos que toda persona merece lo mejor.  
 </p>
-<p class="font-weight-bold">
-3.  Honestidad:  <p class="text-justify">En Profits te ofrecemos servicios honestos sin intención oculta de engaño o falsedad.</p>
+
+ <p class="text-justify"><strong>2. Respeto a la dignidad humana: </strong>Para Profits tú ocupas el primer lugar, sabemos lo que vales y por mismo te tratamos con respeto y reconocemos tus derechos.   </p>
+
+
+ <p class="text-justify"><strong>3. Honestidad: </strong>En Profits te ofrecemos servicios honestos sin intención oculta de engaño o falsedad.</p>
 </p>
-<p class="font-weight-bold">
-4.  Transparencia: <p class="text-justify">Profits es una entidad dedicada a orientar al emprendedor e inversor en materia bursátil, presenta lo más claro posible lo que realmente es el mercado bursátil con sus aspectos positivos y negativos, con sus ventajas y desventajas. 
-</p></p>
-<p class="font-weight-bold">
-5.  Ética y profesionalidad: <p class="text-justify">Se fundamenta en la ética y brinda los servicios de modo profesional.   </p>
+
+<p class="text-justify"><strong>4. Transparencia: </strong>Profits es una entidad dedicada a orientar al emprendedor e inversor en materia bursátil, presenta lo más claro posible lo que realmente es el mercado bursátil con sus aspectos positivos y negativos, con sus ventajas y desventajas. 
 </p>
-<p class="font-weight-bold">
-6.  Calidad de servicio: <p class="text-justify"> El servicio que se presta es profesional, completo y actualizado. </p>
+
+ <p class="text-justify"><strong>5. Ética y profesionalidad: </strong>Se fundamenta en la ética y brinda los servicios de modo profesional.   </p>
 </p>
-<p class="font-weight-bold">
-7.  Solidaridad: </p><p class="text-justify">Nos solidarizamos con las personas que buscan una respuesta a sus inquietudes emprendedoras y les ofrecemos una solución adaptada a sus necesidades. </p>
-<p class="font-weight-bold">8.  Responsabilidad social y ambiental: </p><p class="text-justify">Promovemos el respeto y cuido de la ecología humana, como también el respeto al medio ambiente.</p>
+<p class="text-justify"><strong>6. Calidad de servicio: </strong> El servicio que se presta es profesional, completo y actualizado. </p>
+
+<p class="text-justify"><strong>7. Solidaridad: </strong>Nos solidarizamos con las personas que buscan una respuesta a sus inquietudes emprendedoras y les ofrecemos una solución adaptada a sus necesidades. </p>
+<p class="text-justify"><strong>8. Responsabilidad social y ambiental: </strong>Promovemos el respeto y cuido de la ecología humana, como también el respeto al medio ambiente.</p>
 </div>
       </div>
     </div>
